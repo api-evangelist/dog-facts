@@ -39,7 +39,6 @@ apis:
   - name: Dog Facts
     description: "Random dog facts"
     humanURL: https://dukengn.github.io/Dog-facts-API/
-    baseURL: https://dukengn.github.io/Dog-facts-API/
     tags:
       - Animals
     properties:
